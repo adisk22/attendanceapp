@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "attendancedb ",
+            "database": "attendance_db",
+            "username": "root",
+            "password": "Friendly123$",
+            "connectionTimeout": 30
+        }
+    ]
+}
